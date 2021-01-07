@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5875c943-4258-4d23-96b8-adc9e15bac3e" name="Default Changelist" comment="" />
+    <list default="true" id="5875c943-4258-4d23-96b8-adc9e15bac3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-replica/src/test/java/com/xup/example/raw/ReplicaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-replica/src/test/java/com/xup/example/raw/ReplicaTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/sharding-replica/target/" />
@@ -64,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-sharding-replica-query.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-597">
-              <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+            <state relative-caret-position="19">
+              <caret line="1" column="51" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -73,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-sharding-replica-1.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+            <state relative-caret-position="19">
+              <caret line="1" column="51" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -82,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-replica.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="342">
               <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
             </state>
           </provider>
@@ -91,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sharding-replica/src/test/java/com/xup/example/raw/ReplicaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-189">
-              <caret line="18" column="94" selection-start-line="18" selection-start-column="94" selection-end-line="18" selection-end-column="94" />
+            <state relative-caret-position="58">
+              <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sharding-replica/src/test/java/com/xup/example/ReplicaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="118">
+              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,6 +133,9 @@
       <find>spring-jdbc</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -150,6 +156,7 @@
         <option value="$PROJECT_DIR$/sharding-replica/src/test/java/com/abchina/example/raw/ReplicaTest.java" />
         <option value="$PROJECT_DIR$/sharding-replica/src/test/java/com/abchina/example/ReplicaTest.java" />
         <option value="$PROJECT_DIR$/sharding-replica/src/test/java/com/xup/example/ReplicaTest.java" />
+        <option value="$PROJECT_DIR$/sharding-replica/src/test/java/com/xup/example/raw/ReplicaTest.java" />
       </list>
     </option>
   </component>
@@ -192,6 +199,7 @@
     <option name="width" value="1260" />
     <option name="height" value="678" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -210,6 +218,61 @@
               <item name="shardingsphere-test" type="462c0819:PsiDirectoryNode" />
               <item name="sharding-replica" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shardingsphere-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingsphere-test" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-replica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingsphere-test" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-replica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingsphere-test" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-replica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingsphere-test" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-replica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingsphere-test" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-replica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingsphere-test" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-replica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingsphere-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingsphere-test" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-replica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="raw" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -220,7 +283,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610009779121" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610011539745" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -250,18 +313,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReplicaTest.testSelect (1)">
-    <configuration name="ReplicaShardingTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ReplicaTest.testInsert">
+    <configuration name="ReplicaTest.insert (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shardingreplica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abchina.example.example.*" />
+          <option name="PATTERN" value="com.xup.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.abchina.example.example" />
-      <option name="MAIN_CLASS_NAME" value="com.abchina.example.example.ReplicaShardingTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.xup.example" />
+      <option name="MAIN_CLASS_NAME" value="com.xup.example.ReplicaTest" />
+      <option name="METHOD_NAME" value="insert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -299,6 +362,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReplicaTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shardingreplica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xup.example.raw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xup.example.raw" />
+      <option name="MAIN_CLASS_NAME" value="com.xup.example.raw.ReplicaTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReplicaTest.testSelect (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shardingreplica" />
       <extension name="coverage">
@@ -315,29 +394,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplicaTest.testSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="shardingreplica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.abchina.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.abchina.example" />
-      <option name="MAIN_CLASS_NAME" value="com.abchina.example.ReplicaTest" />
-      <option name="METHOD_NAME" value="testSelect" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReplicaTest.testInsert" />
+        <item itemvalue="JUnit.ReplicaTest.insert (1)" />
         <item itemvalue="JUnit.ReplicaTest.testSelect (1)" />
         <item itemvalue="JUnit.ReplicaTest.insert" />
         <item itemvalue="JUnit.ReplicaTest.test" />
-        <item itemvalue="JUnit.ReplicaTest.testSelect" />
-        <item itemvalue="JUnit.ReplicaShardingTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -352,17 +415,11 @@
       <option name="presentableId" value="Default" />
       <updated>1609992574144</updated>
       <workItem from="1609992578735" duration="610000" />
-      <workItem from="1609993457747" duration="13507000" />
+      <workItem from="1609993457747" duration="14976000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReplicaTest_test - 2021.01.07 at 16h 31m 15s.xml">
-      <configuration name="ReplicaTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReplicaTest_testSelect - 2021.01.07 at 16h 37m 12s.xml">
-      <configuration name="ReplicaTest.testSelect" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReplicaTest_testSelect - 2021.01.07 at 16h 38m 04s.xml">
       <configuration name="ReplicaTest.testSelect" configurationId="JUnit" />
     </history-entry>
@@ -387,12 +444,19 @@
     <history-entry file="ReplicaTest_insert - 2021.01.07 at 16h 45m 07s.xml">
       <configuration name="ReplicaTest.insert" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReplicaTest_testSelect_(1) - 2021.01.07 at 16h 56m 32s.xml">
+      <configuration name="ReplicaTest.testSelect (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReplicaTest_insert_(1) - 2021.01.07 at 17h 20m 28s.xml">
+      <configuration name="ReplicaTest.insert (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14117000" />
+    <option name="totallyTimeSpent" value="15586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.34519" />
@@ -407,7 +471,7 @@
       <window_info anchor="bottom" id="Spring" order="2" weight="0.32978722" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.38120568" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.29307282" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -428,41 +492,6 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Web" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.34519" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32978722" />
-      <window_info anchor="bottom" id="Java Enterprise" order="1" />
-      <window_info anchor="bottom" id="Spring" order="2" weight="0.32978722" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.4822695" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39893618" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" weight="0.5638298" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="right" id="Bean Validation" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.14632174" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Database" order="9" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -558,34 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-sharding-replica-1.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-replica.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-sharding-databases-tables.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-sharding-replica-query.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-597">
-          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/java/com/xup/example/ReplicaExampleMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -610,20 +611,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-sharding-databases-tables.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sharding-replica/src/test/java/com/xup/example/ReplicaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="118">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-replica.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-sharding-replica-1.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-replica/src/main/resources/application-sharding-replica-query.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sharding-replica/src/test/java/com/xup/example/raw/ReplicaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="18" column="94" selection-start-line="18" selection-start-column="94" selection-end-line="18" selection-end-column="94" />
+        <state relative-caret-position="58">
+          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

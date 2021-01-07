@@ -34,8 +34,8 @@ public class ReplicaTest {
 
     @Test
     public void testInsert() throws IOException, SQLException {
-        String sql = "insert into t_order values (133,2,2,'insert test')";
-        DataSource dataSource = YamlShardingSphereDataSourceFactory.createDataSource(getFile("/application-replica.yaml"));
+        String sql = "insert into t_order values (135,2,2,'insert test')";
+        DataSource dataSource = YamlShardingSphereDataSourceFactory.createDataSource(getFile("application-replica.yaml"));
         Connection connection = dataSource.getConnection();
         PreparedStatement statement = connection.prepareStatement(sql);
         statement.executeUpdate();
