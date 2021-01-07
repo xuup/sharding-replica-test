@@ -1,0 +1,4 @@
+com\abchina\example\dao\OrderDao.class
+com\abchina\example\example\ReplicaShardingTest.class
+com\abchina\example\entity\Order.class
+com\abchina\example\ReplicaExampleMain.class
